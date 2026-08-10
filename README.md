@@ -4,6 +4,8 @@ AI is evolving faster than most marketing teams can reasonably track. The challe
 
 I built an AI-enabled intelligence system to turn a growing stream of AI and marketing newsletters into a focused daily briefing for marketing decision-making.
 
+![AI Marketing Intelligence System](ai-marketing-intelligence-system.png)
+
 The Problem
 
 AI newsletters are useful individually, but consuming them at scale creates several challenges:
